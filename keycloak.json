@@ -1,0 +1,10 @@
+{
+  "realm": "lifetime",
+  "realm-public-key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2MACe1MJ/KLVB21MqbwodPX6yIKk+guSrVnNt5txvtZeEPf01J1cXuzOywhIHRDGSKhIZQl0oTatXFgW32lu24I+U1HR38NELtHYv0ytRXHP97mCYYDLyMn1awrdxBVhOnp/Euapl8BaYJGY0k/pCmXOdx4PUlY7f3kB282WQhwIDAQAB",
+  "auth-server-url": "http://keycloak.example.com/auth",
+  "ssl-required": "external",
+  "resource": "alco",
+  "credentials": {
+    "secret": "b1d16d19-c1a3-4ad1-99d4-64093c58b61c"
+  }
+}
